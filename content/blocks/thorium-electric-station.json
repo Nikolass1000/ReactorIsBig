@@ -14,7 +14,7 @@ powerProduction: 180
 consumes: {
 items: {
 items: [
-thorium/10
+thorium/100
 ]}
 liquid: {
 liquid: cryofluid
