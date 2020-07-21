@@ -19,6 +19,6 @@ thorium/10
 liquid: {
 liquid: cryofluid
 amount: 0.15
-}]
+}}
 category: power
 research: differential-generator
