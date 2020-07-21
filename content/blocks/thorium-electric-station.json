@@ -23,5 +23,5 @@ amount: 0.2
 category: power
 research: differential-generator
 itemCapacity: 300
-explosionDamage: 8050
-explosionRadius: 75
+explosionDamage: 1120
+explosionRadius: 125
