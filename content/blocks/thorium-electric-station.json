@@ -10,7 +10,7 @@ graphite/470
 thorium/280
 silicon/500
 ]
-powerProduction: 140
+powerProduction: 180
 consumes: {
 items: {
 items: [
@@ -18,7 +18,7 @@ thorium/10
 ]}
 liquid: {
 liquid: cryofluid
-amount: 0.15
+amount: 0.2
 }}
 category: power
 research: differential-generator
