@@ -10,7 +10,7 @@ graphite/470
 thorium/280
 silicon/500
 ]
-powerProduction: 180
+powerProduction: 270
 consumes: {
 items: {
 items: [
@@ -23,5 +23,5 @@ amount: 0.2
 category: power
 research: differential-generator
 itemCapacity: 300
-explosionDamage: 4590
-explosionRadius: 55
+explosionDamage: 8050
+explosionRadius: 75
